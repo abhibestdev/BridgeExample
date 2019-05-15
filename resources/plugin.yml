@@ -1,0 +1,7 @@
+name: BridgeExample
+author: abhi
+version: 1.0
+main: bridgeexample.BridgeExample
+commands:
+  connect:
+  group:
